@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,a2 as r}from"./chunks/framework.DbvvB1na.js";const p=JSON.parse('{"title":"赛博按钮","description":"","frontmatter":{},"headers":[],"relativePath":"guide/button.md","filePath":"guide/button.md"}'),d={name:"guide/button.md"},o=r("",9),h=[o];function n(s,i,l,c,u,b){return a(),e("div",null,h)}const x=t(d,[["render",n]]);export{p as __pageData,x as default};
