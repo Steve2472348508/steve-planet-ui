@@ -21,5 +21,8 @@
   "homepage": "https://github.com/Steve2472348508/steve-planet-ui#readme",
   "devDependencies": {
     "vitepress": "1.0.0-rc.45"
+  },
+  "dependencies": {
+    "steve-planet-ui": "^1.0.1"
   }
 }
