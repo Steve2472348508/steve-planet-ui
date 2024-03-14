@@ -1,0 +1,9 @@
+:root {
+	/*--vp-home-hero-name-color: red;*/
+}
+
+h1.name .clip {
+	background: linear-gradient(120deg, #bd34fe 30%, #41d1ff);
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
