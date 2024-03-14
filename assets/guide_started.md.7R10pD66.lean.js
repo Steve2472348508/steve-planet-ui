@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a2 as t}from"./chunks/framework.DbvvB1na.js";const o=JSON.parse('{"title":"安装","description":"","frontmatter":{},"headers":[],"relativePath":"guide/started.md","filePath":"guide/started.md"}'),p={name:"guide/started.md"},n=t("",8),l=[n];function h(e,k,d,E,r,g){return a(),i("div",null,l)}const y=s(p,[["render",h]]);export{o as __pageData,y as default};
